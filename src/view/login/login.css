@@ -8,8 +8,19 @@
 
 .btn-login{
     background-color: black;
+    transition: .3s ease-in;
 }
 
 .btn-login:hover{
     background-color: rgb(13, 38, 180);
+}
+
+.opcoes-login a{
+    text-decoration: none;
+    color: black;
+    transition: .3s ease-in;
+}
+
+.opcoes-login a:hover{    
+    color: rgb(13, 38, 180);
 }
